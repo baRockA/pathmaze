@@ -1,0 +1,14 @@
+{ "columns":15,
+ "image":"tile_castle_grey.png",
+ "imageheight":480,
+ "imagewidth":480,
+ "margin":0,
+ "name":"castle-tiles",
+ "spacing":0,
+ "tilecount":225,
+ "tiledversion":"1.8.5",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}
